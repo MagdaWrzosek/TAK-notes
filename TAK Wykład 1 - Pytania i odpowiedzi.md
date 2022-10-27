@@ -52,3 +52,5 @@ Procesor wydaje się typowo CISC z punktu widzenia programisty, ale rozkazy wyko
 22. Czym różnią się architektura von Neumanna i harwardzka?
 Architektura von Neumanna charakteryzuje się wspólną pamięcią na dane i kod programu. Równoczesne pobieranie instrukcji i wykonywanie operacji na danych NIE jest możliwe. Architektura harwardzka posiada rozdzieloną pamięć programu oraz danych. Umożliwia jednoczesne pobieranie instrukcji i wykonywanie operacji na danych.
 
+Link do wersji google doc 
+https://docs.google.com/document/d/1dx9H7c6tR-k_XIc7FPx5NHMx0K3U6v3lzUB_MJJfr9g/edit
