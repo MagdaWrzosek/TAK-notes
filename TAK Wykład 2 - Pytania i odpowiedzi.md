@@ -1,54 +1,54 @@
 TAK Wykład 2 - Pytania i odpowiedzi
 
-1. *Co (najczęściej) reprezentują zmienne binarne oznaczane "0" i "1"?*
+<summary> 1. *Co (najczęściej) reprezentują zmienne binarne oznaczane "0" i "1"?*</summary>
 
 Symbole "0" i "1" odpowiadają poziomom napięcia, "0" oznacza niski, a "1" wysoki poziom napięcia.
 
-2. *Czym różni się układ SI od układu zaproponowanego przez IEC?*
+ <summary> 2. *Czym różni się układ SI od układu zaproponowanego przez IEC?*</summary>
 
 Układ SI jest oparty jest na kolejnych potęgach liczby dziesięć, a układ IEC na potęgach dwójki.
 
-3. *Które systemy liczbowe są najczęściej wykorzystywane w informatyce?*
+<summary> 3. *Które systemy liczbowe są najczęściej wykorzystywane w informatyce?*</summary>
 
 System dwójkowy (binarny), ósemkowy (octal), dziesiętny (decimal) i szesnastkowy (hexidecimal).
 
-4. *W jaki sposób oznacza się znak liczby w systemie dwójkowym (ZN)?*
+<summary> 4. *W jaki sposób oznacza się znak liczby w systemie dwójkowym (ZN)?*</summary>
 
 Znak liczby umieszcza się w najwyższej pozycji w zapisie. "0" oznacza liczbę dodatnią, "1" ujemną.
 
-5. *Na czym polega dopełnienie do dwójki dla liczb ujemnych (kod U2)?*
+<summary> 5. *Na czym polega dopełnienie do dwójki dla liczb ujemnych (kod U2)?* </summary>
 
 Należy wyznaczyć moduł liczby, zamienić wszystkie znaki na przeciwne, i dodać "1".
 
-6. *Czym jest kod dwójkowo-dziesiętny (BCD)?*
+<summary> 6. *Czym jest kod dwójkowo-dziesiętny (BCD)?* </summary>
 
 Jest to kod, w którym kolejne cyfry kodu dziesiętnego są przedstawione za pomocą kolejnych czwórek bitowych.
 
-7. *Podaj ogólny wzór na reprezentację liczb rzeczywistych.*
+<summary> 7. *Podaj ogólny wzór na reprezentację liczb rzeczywistych.* </summary>
 
 x = (-1)^S * M * 2^e
 
-8. *Jakie typy zmiennej w Javie reprezentują liczby pojedynczej i podwójnej precyzji?*
+<summary> 8. *Jakie typy zmiennej w Javie reprezentują liczby pojedynczej i podwójnej precyzji?* </summary>
 
 Pojedyncza - float, podwójna - double.
 
-9. *Od czego zależy wartość polaryzacji (bias)?
+<summary> 9. *Od czego zależy wartość polaryzacji (bias)? </summary>
 
 Zależy od precyzji liczby.
 
-10. *Czym są kody alfanumeryczne?*
+<summary> 10. *Czym są kody alfanumeryczne?* </summary>
 
 Jest to przyporządkowanie ciągów kodowych znakom (np.literom, znakom przestankowym itp.).
 
-11. *Jakie są najczęściej spotykane kodowania?*
+<summary> 11. *Jakie są najczęściej spotykane kodowania?* </summary>
 
 ASCII, Unicode, EBCDIC
 
-12. *Wymień trzy najważniejsze funkcje logiczne oraz ich oznaczenia.*
+<summary> 12. *Wymień trzy najważniejsze funkcje logiczne oraz ich oznaczenia.* </summary>
 
 Iloczyn (&&), Suma (||), Nagacja (!).
 
-13. *Wymień prawa algebry Boole'a.*
+<summary> 13. *Wymień prawa algebry Boole'a.* </summary>
 
 Prawo o koniunkcji:
 
